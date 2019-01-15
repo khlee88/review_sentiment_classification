@@ -1,5 +1,5 @@
 # review_sentiment_classification
-네이버 영화 리뷰 데이터로 부터, 감정(Positive, Negative)을 분류하는 모델을 만드는 튜토리얼
+네이버 영화 리뷰 데이터로 부터, 감정(Positive, Negative)을 분류하는 모델을 만드는 튜토리얼 <br>
 html page: https://khlee88.github.io/review_sentiment_classification/
 
 모델링 과정을 간단하게 요약면 다음과 같다.
